@@ -772,6 +772,10 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 25900,148990,2010,GMC,Sierra 1500 Denali,pickup,Truck,4WD,Automatic,gasoline,6.2,V,BC
 18995,260800,2010,GMC,Sierra 1500 Denali,pickup,Truck,4WD,Automatic,gasoline,6.2,V,BC
 24800,175660,2009,Cadillac,Escalade EXT,pickup,Truck,4WD,Automatic,gasoline,6.2,V,ON
+18588,129305,2005,Cadillac,Escalade EXT,pickup,Truck,4WD,Automatic,gasoline,6,V,AB
+18588,129305,2005,Cadillac,Escalade EXT,pickup,Truck,4WD,Automatic,gasoline,6,V,AB
+14995,194739,2007,Cadillac,Escalade EXT,pickup,Truck,4WD,Automatic,gasoline,6.2,V,ON
+11900,295000,2007,Cadillac,Escalade EXT,pickup,Truck,4WD,Automatic,gasoline,6.2,V,ON
 56795,90,2021,BMW,3 Series,sedan,Car,4WD,Automatic,hyrid,2,I,BC
 72096,90,2021,BMW,3 Series,sedan,Car,4WD,Automatic,hyrid,2,I,AB
 58045,90,2021,BMW,3 Series,sedan,Car,4WD,Automatic,hyrid,2,I,BC
@@ -821,6 +825,26 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 115000,3999,2021,Mercedes-Benz,GLS,suv,Truck,4WD,Automatic,hyrid,3,I,QC
 149485,90,2021,Mercedes-Benz,GLS,suv,Truck,4WD,Automatic,hyrid,4,V,BC
 59999,193600,2009,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,ON
+55910,88398,2008,Hummer,H2,pickup,Truck,4WD,Automatic,gasoline,6.2,V,ON
+44999,80000,2006,Hummer,H2,pickup,Truck,4WD,Automatic,gasoline,6,V,ON
+24980,234167,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,AB
+24980,234167,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,AB
+24980,234167,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,AB
+24980,234167,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,AB
+58995,81680,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,AB
+47999,164100,2008,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6.2,V,ON
+29999,144036,2003,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,SK
+16000,197858,2003,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,ON
+51990,0,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,AB
+51990,0,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,AB
+22888,199000,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,BC
+34900,166000,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,BC
+25000,204708,2006,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,ON
+28887,244835,2007,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,SK
+35888,122675,2003,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,BC
+30989,143556,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,AB
+30989,143556,2005,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,AB
+25888,167462,2006,Hummer,H2,suv,Truck,4WD,Automatic,gasoline,6,V,AB
 83999,11901,2020,Lincoln,Aviator,suv,Truck,4WD,Automatic,hyrid,3,V,ON
 85990,7511,2020,Lincoln,Aviator,suv,Truck,4WD,Automatic,hyrid,3,V,AB
 85990,7511,2020,Lincoln,Aviator,suv,Truck,4WD,Automatic,hyrid,3,V,AB
@@ -1045,6 +1069,14 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 98900,3860,2020,Mercedes-Benz,CLS-Class,sedan,Car,4WD,Automatic,hyrid,3,I,BC
 121957,90,2021,Mercedes-Benz,CLS-Class,sedan,Car,4WD,Automatic,hyrid,3,I,BC
 142945,18,2021,Mercedes-Benz,AMGA GT 4-Door Coupe,hatchback,Car,4WD,Automatic,hyrid,3,I,QC
+125990,14280,2020,Mercedes-Benz,AMGA GT 4-Door Coupe,hatchback,Car,4WD,Automatic,hyrid,3,I,ON
+125990,14280,2020,Mercedes-Benz,AMGA GT 4-Door Coupe,hatchback,Car,4WD,Automatic,hyrid,3,I,ON
+189900,27208,2020,Mercedes-Benz,AMGA GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
+178899,24339,2019,Mercedes-Benz,AMG GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
+178899,24339,2019,Mercedes-Benz,AMG GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
+186995,20643,2019,Mercedes-Benz,AMG GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
+174888,13119,2019,Mercedes-Benz,AMG GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
+174888,13119,2019,Mercedes-Benz,AMG GT 4-Door Coupe,hatchback,Car,4WD,Automatic,gasoline,4,V,ON
 85205,1200,2021,Mercedes-Benz,E-Class,sedan,Car,4WD,Automatic,hyrid,3,I,ON
 85205,1200,2021,Mercedes-Benz,E-Class,sedan,Car,4WD,Automatic,hyrid,3,I,ON
 25880,61000,2017,Audi,Q5,suv,Truck,4WD,Automatic,gasoline,2,I,ON
@@ -1544,6 +1576,17 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 57995,58276,2018,Volvo,XC90,suv,Truck,4WD,Automatic,hyrid,2,I,QC
 45900,110588,2018,Volvo,XC90,suv,Truck,4WD,Automatic,hyrid,2,I,ON
 89988,53670,2014,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,ON
+59985,19600,2011,Maserati,GranTurismo,coupe,Car,RWD,Automatic,gasoline,4.7,V,ON
+57950,60488,2011,Maserati,GranTurismo,coupe,Car,RWD,Automatic,gasoline,4.7,V,ON
+39999,120000,2011,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,ON
+59995,99779,2010,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,QC
+59995,99779,2010,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,QC
+67988,52707,2012,Maserati,GranTurismo,coupe,Car,RWD,Automatic,gasoline,4.7,V,ON
+68888,62000,2012,Maserati,GranTurismo,coupe,Car,RWD,Automatic,gasoline,4.7,V,ON
+84990,14898,2012,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,BC
+99995,33200,2012,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,QC
+92888,20515,2013,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,AB
+92888,20515,2013,Maserati,GranTurismo,convertible,Car,RWD,Automatic,gasoline,4.7,V,AB
 88888,160859,2003,Am General,Hummer,suv,Truck,4WD,Automatic,other,6.5,V,BC
 99990,103516,2000,Am General,Hummer,suv,Truck,4WD,Automatic,other,6.5,V,ON
 53990,8982,2020,Jeep,Wrangler Unlimited,suv,Truck,4WD,Manual,other,3,V,AB
@@ -6431,6 +6474,16 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 39994,1534,2019,Mazda,CX-5,suv,Truck,4WD,Automatic,other,2.2,I,MB
 39400,3729,2019,Mazda,CX-5,suv,Truck,4WD,Automatic,other,2.2,I,ON
 34995,26037,2019,Mazda,CX-5,suv,Truck,4WD,Automatic,other,2.2,I,NS
+39995,26051,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,ON
+36998,73987,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,QC
+39930,74540,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,BC
+39800,63778,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,ON
+35800,73830,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,ON
+39800,47410,2017,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,ON
+41998,61300,2018,Jaguar,F-Pace,suv,Truck,4WD,Automatic,gasoline,3,V,BC
+42984,64980,2018,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,QC
+42984,64980,2018,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,QC
+42984,64980,2018,Jaguar,F-PACE,suv,Truck,4WD,Automatic,gasoline,3,V,QC
 37998,41000,2017,Jaguar,F-Pace,suv,Truck,4WD,Automatic,other,2,I,ON
 37998,41000,2017,Jaguar,F-Pace,suv,Truck,4WD,Automatic,other,2,I,ON
 35999,70000,2018,Jaguar,F-Pace,suv,Truck,4WD,Automatic,other,2,I,ON
@@ -7004,6 +7057,19 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 27988,76153,2014,Audi,A7,hatchback,Car,4WD,Automatic,other,3,V,AB
 12900,127000,2011,Audi,A3,hatchback,Car,FWD,Automatic,other,2,I,BC
 29995,67448,2014,Audi,A6,sedan,Car,4WD,Automatic,other,3,V,ON
+84888,6000,2020,Audi,A6 Allroad,wagon,Car,4WD,Automatic,gasoline,3,V,ON
+84888,6000,2020,Audi,A6 Allroad,wagon,Car,4WD,Automatic,gasoline,3,V,ON
+84888,6000,2020,Audi,A6 Allroad,wagon,Car,4WD,Automatic,gasoline,3,V,ON
+11150,131000,2009,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3,V,ON
+5500,183000,2006,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+10444,116531,2008,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+8395,133904,2008,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+8900,142359,2008,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+9995,128201,2007,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,AB
+8999,115000,2006,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+3995,214650,2007,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+8150,148000,2007,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
+6500,161000,2006,Audi,A6,sedan,Car,4WD,Automatic,gasoline,3.1,V,ON
 14988,65473,2013,Audi,A3,hatchback,Car,FWD,Automatic,other,2,I,AB
 24000,115500,2012,Audi,A7,sedan,Car,4WD,Automatic,other,3,V,ON
 14495,177068,2012,Audi,A7,sedan,Car,4WD,Automatic,other,3,V,ON
@@ -9443,6 +9509,14 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 37000,55321,2018,Jeep,Wrangler JK Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
 41788,37006,2018,Jeep,Wrangler JK Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
 42880,93174,2018,Jeep,Wrangler JK Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
+95145,4000,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,AB
+88888,9612,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,ON
+88888,9612,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,ON
+88888,9612,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,ON
+99680,750,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,BC
+91085,6800,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,AB
+100177,90,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,BC
+90261,90,2021,Mercedes-Benz,GLE,suv,Truck,4WD,Automatic,hyrid,3,I,QC
 26998,95153,2013,Jeep,All-New Wrangler Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
 26998,95153,2013,Jeep,All-New Wrangler Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
 26998,95153,2013,Jeep,All-New Wrangler Unlimited,suv,Truck,4WD,Manual,gasoline,3.6,V,ON
@@ -30558,6 +30632,8 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 60989,64306,2019,Ford,Expedition,suv,Truck,4WD,Automatic,gasoline,3.5,V,ON
 72967,9135,2020,Ford,Expedition,suv,Truck,4WD,Automatic,gasoline,3.5,V,ON
 19995,78383,2008,Ford,E-Series Econoline Wagon,passenger_van,Truck,RWD,Automatic,gasoline,5.4,V,BC
+13900,190000,2010,Ford,E-Series Econoline Wagon,passenger_van,Truck,RWD,Automatic,gasoline,5.4,V,ON
+29988,31161,2014,Ford,E-Series Econoline Wagon,passenger_van,Truck,RWD,Automatic,gasoline,6.8,V,AB
 6987,271300,2003,Ford,Expedition,suv,Truck,4WD,Automatic,gasoline,4.6,V,ON
 6995,202850,2005,Ford,Expedition,suv,Truck,4WD,Automatic,gasoline,5.4,V,ON
 44888,30010,2020,Ford,Explorer,suv,Truck,4WD,Automatic,gasoline,2.3,I,SK
@@ -39882,6 +39958,19 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 13777,81809,2013,Cadillac,CTS Sport Sedan,sedan,Car,4WD,Automatic,gasoline,3,V,QC
 7890,203978,2010,Cadillac,CTS Sedan,sedan,Car,4WD,Automatic,gasoline,3,V,BC
 48998,5208,2020,Cadillac,CT4,sedan,Car,4WD,Automatic,gasoline,2,I,QC
+25995,58649,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+22995,69778,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+22995,69778,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+22995,69778,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+22995,69778,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+22995,69778,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+24990,48542,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+24990,48542,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+24990,48542,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+24990,48542,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+24990,48542,2017,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,BC
+12979,108829,2015,Cadillac,ATS,sedan,Car,RWD,Automatic,gasoline,2,I,ON
+13995,132162,2013,Cadillac,CT4,sedan,Car,RWD,Automatic,gasoline,2,I,ON
 15995,125038,2013,Cadillac,CTS Sedan,sedan,Car,4WD,Automatic,gasoline,3,V,ON
 17964,91813,2013,Cadillac,CTS Sedan,sedan,Car,RWD,Automatic,gasoline,3.6,V,ON
 11999,141502,2013,Cadillac,CTS Sport Sedan,sedan,Car,RWD,Automatic,gasoline,3.6,V,ON
@@ -39964,6 +40053,8 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 4999,156000,2008,Cadillac,STS,sedan,Car,RWD,Automatic,gasoline,3.6,V,ON
 8995,109769,2008,Cadillac,STS,sedan,Car,RWD,Automatic,gasoline,3.6,V,BC
 5995,256925,2002,Cadillac,DeVille,sedan,Car,FWD,Automatic,gasoline,4.6,V,ON
+8800,189889,2007,Cadillac,DeVille,sedan,Car,FWD,Automatic,gasoline,4.6,V,AB
+8800,189889,2007,Cadillac,DeVille,sedan,Car,FWD,Automatic,gasoline,4.6,V,AB
 35999,75130,2016,Cadillac,CT6,sedan,Car,4WD,Automatic,gasoline,3.6,V,AB
 35999,75130,2016,Cadillac,CT6,sedan,Car,4WD,Automatic,gasoline,3.6,V,MB
 35998,53538,2016,Cadillac,CT6,sedan,Car,4WD,Automatic,gasoline,3.6,V,ON
@@ -39991,6 +40082,17 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 5900,159000,2004,Saturn,L-Series,sedan,Car,FWD,Automatic,gasoline,3,V,BC
 2750,183998,2003,Saturn,L-Series,sedan,Car,FWD,Automatic,gasoline,2.2,I,ON
 15995,89970,2009,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,QC
+13995,116846,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,QC
+14498,109865,2008,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,QC
+16999,37920,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,BC
+16995,80375,2008,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,QC
+16942,85397,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2.4,I,BC
+18995,64777,2008,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,QC
+18995,64777,2008,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,QC
+15993,30288,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,AB
+15993,30288,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,AB
+15993,30288,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,AB
+15993,30288,2007,Saturn,Sky,convertible,Car,RWD,Manual,gasoline,2,I,AB
 6795,160140,2008,Saturn,Aura,sedan,Car,FWD,Automatic,gasoline,2.4,I,AB
 4500,175000,2008,Saturn,Aura,sedan,Car,FWD,Automatic,gasoline,2.4,I,ON
 3488,169419,2009,Saturn,Aura,sedan,Car,FWD,Automatic,gasoline,2.4,I,ON
@@ -122380,4 +122482,39 @@ price,miles,year,make,model,body_type,vehicle_type,drivetrain,transmission,fuel_
 47995,22108,2019,Mercedes-Benz,GLC-Class,suv,Truck,4WD,Automatic,hyrid,2,I,QC
 42995,55316,2018,Mercedes-Benz,GLC-Class,suv,Truck,4WD,Automatic,hyrid,2,I,QC
 42995,55316,2018,Mercedes-Benz,GLC-Class,suv,Truck,4WD,Automatic,hyrid,2,I,QC
+31995,88930,2012,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+56988,105348,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,QC
+68900,57089,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+46800,77252,2016,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+65996,67639,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+25999,96325,2012,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+58588,58036,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+58588,58036,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+53999,94641,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+55800,65120,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+69900,79346,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+72888,42595,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+46910,75502,2015,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+60999,73660,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+60999,73660,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+29995,109565,2011,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+24800,96494,2011,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+44799,79672,2016,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+58585,55610,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,QC
+66900,45094,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+30900,121017,2013,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+55800,78207,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+73900,50360,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+69900,59950,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+69900,25675,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+49880,69000,2015,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+55800,74541,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+57989,75600,2017,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,QC
+72800,48786,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+73900,51277,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
+65800,60497,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+64800,37082,2018,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+29990,131367,2013,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+102800,1259,2020,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,ON
+101685,10538,2020,Porsche,Cayenne,suv,Truck,4WD,Automatic,hyrid,3,V,BC
 113530,7595,2020,Porsche,Cayenne Coupe,suv,Truck,4WD,Automatic,hyrid,3,V,ON
